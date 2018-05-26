@@ -1,0 +1,4 @@
+C:\Users\wyc19\.CLion2017.1\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/g/Code/FinalHomework/BankManagementSystem
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/g/Code/FinalHomework/BankManagementSystem/cmake-build-debug
